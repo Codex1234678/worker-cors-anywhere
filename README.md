@@ -1,0 +1,1 @@
+# worker-cors-anywhere
